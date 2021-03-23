@@ -8,3 +8,5 @@ line 07
 line 08
 line 09 git_1
 line 10 git_1
+line 09 changes from branch git_2
+line 10 changes from branch git_2
